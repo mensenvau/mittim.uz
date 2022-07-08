@@ -1,0 +1,19 @@
+{
+    "name": "mittim.uz",
+    "version": "1.0.0",
+    "description": "it is love npm",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mensenvau/mittim.uz.git"
+    },
+    "author": "O'tkir Xo'jayev",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mensenvau/mittim.uz/issues"
+    },
+    "homepage": "https://github.com/mensenvau/mittim.uz#readme"
+}
